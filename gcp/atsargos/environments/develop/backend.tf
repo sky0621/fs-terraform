@@ -1,5 +1,5 @@
 terraform {
   backend "gcs" {
-    prefix = "develop"
+    prefix = "atsargos/develop"
   }
 }
