@@ -52,7 +52,7 @@ https://cloud.google.com/iam/docs/reference/rest/v1/Policy?hl=ja#Binding
 ※たぶん随時追加していく感じ。
 
 ```
-$ gcloud services enable iam.googleapis.com compute.googleapis.com storage-component.googleapis.com
+$ gcloud services enable iam.googleapis.com compute.googleapis.com storage-component.googleapis.com cloudresourcemanager.googleapis.com
 ```
 
 https://cloud.google.com/endpoints/docs/openapi/enable-api?hl=ja
