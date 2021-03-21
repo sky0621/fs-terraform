@@ -1,4 +1,4 @@
-# MEMO
+# MEMO_SETUP
 
 ## 手順
 
